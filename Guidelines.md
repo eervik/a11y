@@ -1,6 +1,6 @@
 # Accessibilty testing
 
-## 1
+## 1 Perceivable
 
 - Alt innhold skal ha et ikke-tekstlig alternativ (Bilder har tekstalternativ og lyd har tekstalternativ f.eks)
 - Innholdstyper er kodet med riktig type. Overskrifter er overskrifter og har riktig nivå. En knapp er en knapp, og en link er en link.
@@ -14,7 +14,7 @@
  - Ikke bruk bilde av tekst unødvendig, vanskelig å skalere.
 
 
-## 2
+## 2 Operable
 
  - Naviger gjennom siden ved bruk av tastatur. Fokus skal være synlig, og sjekk at det ikke er noen tastaturfeller.
  - Det er mulig å slå av, justere eller forlenge tidsavgrensninger. 
@@ -32,7 +32,7 @@
  - Alle element det er mulig å betjene med tastaturet, får synlig fokusmarkering. 
 
 
-## 3
+## 3 Understandable
 
 - Språk på siden er rett kodet. Hjelpemiddelteknologi får da rett uttale.
 - Man kan navigere gjennom nettsiden uten at det skjer kontekstendringer når ulike elementer får fokus.
@@ -53,10 +53,10 @@
  - Brukeren kan kontrollere og endre informasjon, eller angre innsending av skjema med viktig formål
 
 
-## 4
+## 4 Robust
 
 - Ingen syntaksfeil: nøsting, avslutting av element, id'er.
-- Skjemaelementer, knapper erkoblet til ledetekst i koden.
+- Skjemaelementer, knapper er koblet til ledetekst i koden.
 
 
 ## Tabeller

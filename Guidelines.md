@@ -67,3 +67,5 @@ Følgende innhold i tabeller er kodet semantisk rett:
 - Overskriftsceller i tabeller med overskrifter både på kolonne og rad.
 - Overskriftsceller i tabeller med overskrifter på flere rader og/eller kolonner inne i tabellen.
 
+
+TODO: Legg til utvidelser for headers og fargekontrast

@@ -23,7 +23,7 @@
    - Innhold som blinker har størrelse på mindre enn 21 824 kvadratpiksler eller færre enn tre blink i sekundet.
  - Hoppe over blokker for å gå til hovedinnhold. Mange sider har innhold som blir gjentatt flere ganger, f. eks menyer og topptekster, skal være mulig å hoppe over denne typen innhold.
  - Siden har sidetitler som er beskrivende for emne eller formål. 
-   - Sørg for at de er korrekt kodet, og gir mening delv når de blir lest ut av kontekst.
+   - Sørg for at de er korrekt kodet, og gir mening selv når de blir lest ut av kontekst.
  - Logisk fokusrekkefølge når man navigerer med tastatur. Trenger ikke å være identisk med leserekkefølge så lenge brukeren kan forstå og bruke innholdet på nettsiden.
  - Lenker skal være formulerte slik at brukeren får informasjon om formålet med lenken, eller at det kommer tydelig frem ved lenketekst og kontekst.
  - Nettsider og innhold/funksjonalitet på nettsider, skal kunne nåes(?) på flere måter. Dette kan være gjennom lenker, søkefunksjonalitet, nettstedkart og lignende.

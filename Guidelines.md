@@ -74,17 +74,31 @@ TODO: Legg til utvidelser for headers og fargekontrast
 
 Checklist: 
 Use keyboard shortcuts to read through your website's content and recreate the screen reader user journey from start to finish. You should navigate through the following actions:
+
 Check for missing/improper headings on your pages
+
 Check whether the HTML document has a language attribute (this ensures it will read content in the right accent and with the correct pronunciation for the desired region)
+
 Complete a fill form – are the labels and prompts working as expected?
+
 Interact with call-to-action buttons
+
 Interact with data tables – they should only be used for tabular data if present
+
 Check image alt text for descriptiveness
+
 Check link text for descriptiveness
+
 Check button text for descriptiveness
+
 Check common problematic elements, like CAPTCHA, accessibility overlays, unexpected screen changes and Flash content
+
 Check that the search functionality is present and functional
+
 Check for presence of ‘skip to main content’ and ‘skip navigation’ links
+
 Check that automatic carousels and autoplay are disabled
+
 Repeat the process with another type of screen reader
+
 Make the necessary accessibility fixes then repeat the screen reader testing to ensure your actions have been successful 
